@@ -30,4 +30,4 @@
 ## 🌟 Let's Connect!
 
 📧 **amitmhatocky909@gmail.com**  
-💼 **LinkedIn:** *(linkedin.com/in/amit-kumar-mahato-529b2531b)*  
+💼 **LinkedIn:** linkedin.com/in/amit-kumar-mahato-529b2531b 
