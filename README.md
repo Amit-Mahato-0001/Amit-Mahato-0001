@@ -1,16 +1,33 @@
-## Hi there 👋
+# I'm Amit Kr. Mahato
 
-<!--
-**Amit-Mahato-0001/Amit-Mahato-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BCA Student at SBU Ranchi  
+💻 MERN-Stack Developer | Competitive Programmer | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+
+- Building scalable web applications with **MERN Stack** (MongoDB, Express, React, Node.js)
+- Crafting responsive UIs with **React** and **Tailwind CSS**
+- Integrating secure payment systems with **Razorpay**
+- Solving algorithmic challenges on **LeetCode**
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:** JavaScript, HTML, CSS, SQL  
+**Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Mongoose ODM, Pinecode  
+**Authentication:** NextAuth.js, JWT  
+**Payments:** Razorpay SDK  
+
+**Tools:** Git, GitHub, VS Code, Vercel, Render, Cloudinary, React Flow
+
+---
+
+## 🌟 Let's Connect!
+
+📧 **amitmhatocky909@gmail.com**  
+💼 **LinkedIn:** *linkedin.com/in/amit-kumar-mahato-529b2531b*  
