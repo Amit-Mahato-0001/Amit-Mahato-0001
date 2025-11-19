@@ -29,5 +29,5 @@
 
 ## 🌟 Let's Connect!
 
-📧 **amitmhatocky909@gmail.com**  
+📧 **amitmahatocky909@gmail.com**  
 💼 **LinkedIn:** https://www.linkedin.com/in/amit-kumar-mahato-529b2531b  
