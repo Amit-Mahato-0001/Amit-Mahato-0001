@@ -16,7 +16,7 @@
 
 ## 🔧 Tech Stack
 
-**Languages:** JavaScript, C, C++, HTML, CSS
+**Languages:** JavaScript, HTML, CSS
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, Mongoose ODM
