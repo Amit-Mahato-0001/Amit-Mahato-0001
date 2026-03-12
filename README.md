@@ -2,6 +2,10 @@
   <img src="./scryer.jpg" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="./run.gif" width="100%"/>
+</p>
+
 ```
 Author: Amit Kr. Mahato <me@amitmahatocky909@gmail.com>
 Date: Sat Feb 28 02:28:00 2026 -0800
