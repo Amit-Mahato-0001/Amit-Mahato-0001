@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./3hunted_by_the_cult.webp" width="100%"/>
+  <img src="./long_way.gif" width="100%"/>
 </p>
 
 ```
